@@ -29,6 +29,6 @@
     method: GET
     Header: Authorization: Bearer ${token}
 
-### Get Blogs of specific User: /blog/myblog/:authodId
+### Get Blogs of specific User: /blog/myblog/:authorId
     method: GET
     Header: Authorization: Bearer ${token}
